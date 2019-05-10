@@ -3,7 +3,7 @@
 
 // Change database information              Database    Username     Password
 // 				              name
-$pdo = new PDO("mysql:host=127.0.0.1;dbname=facemash",'facemasher','mashtheface');
+$pdo = new PDO("mysql:host=127.0.0.1;dbname=invictamash",'invictamash','invictamash');
 
 
 function klogic($rating,$matchcount){
